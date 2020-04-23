@@ -48,7 +48,7 @@ li{
 }
 
 div{
-	padding-left: 750px;
+	padding-left: 40%;
 	text-align: left;
 
 }
@@ -76,4 +76,6 @@ footer{
 	font-style: italic;
 	margin-top: 0;
 	margin-bottom: 50px;
+	opacity: 50%;
+	font-size: 15px;
 }
