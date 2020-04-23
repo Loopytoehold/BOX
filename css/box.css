@@ -1,0 +1,39 @@
+body{
+	background-color: grey;
+	margin: 0;
+	
+
+}
+
+header{
+	text-align: center;
+	padding-top: 60px;
+	padding-bottom: 60px;
+	background-color: #676574;
+}
+
+header img{
+	border-radius: 100px;
+}
+
+ul{
+	
+}
+h1{
+	font-family: roboto;
+	font-size: 60px;
+}
+
+h2{
+	
+}
+
+li{
+	
+
+}
+
+div{
+	margin-right: auto;
+	margin-left: auto;
+}
