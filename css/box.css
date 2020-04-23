@@ -22,6 +22,11 @@ header img{
 
 main img{
 
+
+}
+
+img{
+	
 }
 
 
@@ -58,6 +63,7 @@ ol{
 
 a:hover{
 	color: white;
+	font-size: 40px;
 }
 
 footer{
