@@ -1,6 +1,9 @@
 body{
 	background-color: grey;
 	margin: 0;
+	font-family: roboto;
+	font-size: 18px;
+	text-align: center;
 	
 
 }
@@ -14,26 +17,57 @@ header{
 
 header img{
 	border-radius: 100px;
-}
-
-ul{
 	
 }
+
+main img{
+
+}
+
+
+
 h1{
 	font-family: roboto;
 	font-size: 60px;
 }
 
 h2{
-	
+	text-align: center;
+	font-size: 35px;
 }
 
 li{
-	
+
+
 
 }
 
 div{
-	margin-right: auto;
-	margin-left: auto;
+	padding-left: 750px;
+	text-align: left;
+
+}
+
+ul{
+	list-style-position: inside;
+}
+
+ol{
+	list-style-position: inside;
+}
+
+a:hover{
+	color: white;
+}
+
+footer{
+	background-color: #676574;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+.caption{
+	font-style: italic;
+	margin-top: 0;
+	margin-bottom: 50px;
 }
